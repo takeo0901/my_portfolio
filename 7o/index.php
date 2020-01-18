@@ -1,5 +1,5 @@
 <?php
- require_once('my_portfolio/7o/topic/');
+ require_once('7o/topic/');
 ?>
 
 <!DOCTYPE html>
