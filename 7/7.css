@@ -1,0 +1,44 @@
+body{
+  width:100%;
+}
+
+header{
+  height: 70px;
+  background-color:#191919;
+  line-height: 30px;;
+  width:100%;
+}
+.header-text{
+  margin:0px 30px;
+  color:white;
+}
+.header-text h2{
+  float: left;
+  color:white;
+}
+.menu-icon a{
+  float: right;
+  display:inline-block;
+  background-color:#313131;
+  height:70px;
+  padding:0px 40px;
+  line-height: 70px;
+  color:white;
+}
+.gazou-wrapper{
+  width:100%;
+  background-color:#d0d0d0;
+}
+.gazou{
+  width:30%;
+  margin:0 10px;
+}
+.ue{
+  padding-top:30px;
+  text-align:center;
+}
+.sita{
+  padding:30px 0;
+  text-align:center;
+
+}
